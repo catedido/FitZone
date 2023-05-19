@@ -11,43 +11,45 @@ body {
 }
 
 .recent-posts-tag {
-    font-size: 30px;
-    padding-bottom: 15px;;
+    font-size: 20px;
+    padding-bottom: 15px;
+    margin-left: 135px;
 }
 
 .article-picture {
-    width: 230px;
+    width: 195px;
     margin-left: auto;
     margin-right: auto;
     padding-bottom: 6px;
 }
 .article-topic {
     font-size: 14px;
-    color: #006ce5;
+    color: #1d51b6;
 }
 .reading-time {
     font-size: 14px;
-    color: #72bb53;
+    color: #0b4940;
 }
 .article-title {
     font-size: 16px;
-    color: #ff6624;
+    color: black;
     padding-top: 6px;
     padding-bottom: 4px;
 }
 .article-by,
 .article-date {
     font-size: 14px;
-    color: #72bb53;
+    color: #761b0e;
 }
 .recent-posts {
     display: flex;
     flex-wrap: wrap;
     gap: 12px;
+    margin-left: 140px;
 }
 
 .article-container {
-    width: 235px;
+    width: 200px;
     height: fit-content;
     padding: 10px;
     background-color: #ffffff;
@@ -136,4 +138,37 @@ footer {
     text-align: center;
     background-color: #a35d17;
     border-radius: 10px;
+    }
+
+.left-menu {
+        width: 120px;
+        height: 100%;
+        position: fixed;
+        top: 0;
+        left: 0;
+        background-color: #D08F30;
+        font-size: 16px;
+    }
+      
+.left-menu ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    }
+      
+    .left-menu li {
+        padding: 20px;
+    }
+      
+    .left-menu li:hover {
+        background-color: #A35D17;
+    }
+      
+    .left-menu a {
+        text-decoration: none;
+        color: #333;
+    }
+      
+    .left-menu a:hover {
+        color: #fff;
     }
