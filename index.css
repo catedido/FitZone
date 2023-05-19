@@ -127,3 +127,13 @@ body {
     margin-right: auto;
 }
 
+footer {
+    position: fixed;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+    color: white;
+    text-align: center;
+    background-color: #a35d17;
+    border-radius: 10px;
+    }
