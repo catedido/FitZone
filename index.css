@@ -142,6 +142,13 @@ figcaption {
     padding: 15px;
 }
 
+#bmi-button {
+    padding: 10px;
+    margin: 30px;
+    background-color: white;
+    color: #02422b;
+}
+
 footer {
     position: fixed;
     width: 100%;
