@@ -160,12 +160,15 @@ figcaption {
 }
 
 .calculator {
-    width: 130px;
+    height: 150px;
+    width: 150px;
+    padding: 10px;
 }
 
 .calculator-agreement {
     display: flex;
-    padding: 40px
+    padding-top: 40px;
+    padding-bottom: 40px;;
 }
 
 footer {
