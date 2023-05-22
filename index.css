@@ -86,14 +86,14 @@ body {
 }
 
 .story-title {
-    font-size: 40px;
+    font-size: 30px;
     padding-bottom: 20px;
     line-height: 1.1;
     text-indent: 0;
 }
 
 .story-subtitle {
-    font-size: 30px;
+    font-size: 20px;
     padding-top:20px;
     padding-bottom:20px;
     line-height: 1;
@@ -114,14 +114,14 @@ body {
 }
 
 .story-by {
-    font-size: 20px;
+    font-size: 15px;
     padding-top: 10px;
     padding-bottom: 10px;
     text-indent: 0;
 }
 
 .story-date {
-    font-size: 15px;
+    font-size: 12px;
     text-indent: 0;
 }
 
