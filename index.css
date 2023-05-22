@@ -12,7 +12,7 @@
 }
 .header { 
     background-color:#72371B;   
-
+    background-size: cover;
 }
 body {
     background-color: #ff6624;
