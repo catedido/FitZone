@@ -149,6 +149,15 @@ figcaption {
     color: #02422b;
 }
 
+.calculator {
+    width: 130px;
+}
+
+.calculator-agreement {
+    display: flex;
+    padding: 40px
+}
+
 footer {
     position: fixed;
     width: 100%;
