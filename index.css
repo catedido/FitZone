@@ -160,9 +160,9 @@ figcaption {
 }
 
 .calculator {
-    height: 150px;
-    width: 150px;
-    padding: 10px;
+    height: 80px;
+    width: 80px;
+    padding-right: 10px;
 }
 
 .calculator-agreement {
