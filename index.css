@@ -3,6 +3,9 @@
     margin: 0px;
     text-decoration: none;
 }
+.container {
+    display: flex;
+  }
 .logo {
     width: 300px;
     display: block;
@@ -11,7 +14,8 @@
 
 }
 .header { 
-    background-color:#72371B;   
+    background-color:#72371B; 
+    width: 100%;
 
 }
 body {
@@ -176,9 +180,7 @@ figcaption {
 
 /* NAV MENU STYLING */
 
-.container {
-    display: flex;
-  }
+
 
 .left-menu {
     width: 120px;
