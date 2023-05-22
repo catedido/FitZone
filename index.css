@@ -44,11 +44,6 @@
     color: #fff;
 }
 
-.content {
-    flex-grow: 1;
-    padding: 20px;
-}
-
 .logo {
     width: 300px;
     display: block;
