@@ -13,6 +13,8 @@
 .header { 
     background-color:#72371B;   
     background-size: cover;
+    margin-left: auto;
+    margin-right: auto;  
 }
 body {
     background-color: #ff6624;
