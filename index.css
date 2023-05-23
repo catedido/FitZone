@@ -45,10 +45,10 @@
 }
 
 .logo {
-    width: 200px;
+    width: min(50vw, 200px);
     display: block;
     margin-left: auto;
-    margin-right: 75px;  
+    margin-right: auto;  
 
 }
 .header { 
