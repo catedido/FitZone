@@ -228,7 +228,8 @@ figcaption {
 
 
 footer {
-    position: fixed;
+    position:fixed;
+    display: inline-block;
     width: 100%;
     left: 0;
     bottom: 0;
