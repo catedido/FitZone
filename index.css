@@ -215,11 +215,14 @@ figcaption {
     padding: 15px;
 }
 
-#bmi-button {
-    padding: 10px;
-    margin: 30px;
-    background-color: white;
-    color: #02422b;
+#calculatebmi {
+    padding: 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    border-color: rgb(2, 103, 13);
+    background-color: rgb(2, 103, 13);
+    color: white;
 }
 
 .calculator {
